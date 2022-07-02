@@ -1,5 +1,5 @@
 import { Header } from "./components/Header";
-import { MusicList } from "./components/musicList";
+import { MusicList } from "./components/MusicList";
 
 export default function App() {
   return (
